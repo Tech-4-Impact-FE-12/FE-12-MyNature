@@ -37,6 +37,7 @@ const Artikel = () => {
                           <img src={artikel.images} className="Artikel-img flex-shrink-0" alt="" />
                           <h3>{artikel.title}</h3>
                         </div>
+                       <button className="detailButton" type='button' onClick={() => handleDetail(artikel.id)}>Baca Selengkapnya</button>
                       </div>
                     </div>
                   </div>
