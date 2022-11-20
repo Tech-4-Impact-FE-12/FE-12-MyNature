@@ -1,2 +1,2 @@
 # FE-12-MyNature
-INI MAIN
+INI DEV
