@@ -1,6 +1,5 @@
 import React from 'react'
 import { Container, Row, Col } from 'react-bootstrap'
-import './hero-img.svg';
 import './Home.css'
 import { Link } from "react-router-dom";
 
@@ -21,7 +20,7 @@ const Home = () => {
                             </div>
                         </Col>
                         <Col className="col-lg-6 order-1 order-lg-2">
-                            <img src="https://res.cloudinary.com/dzgtndwwd/image/upload/v1668869299/hero-img_xvgjko.svg" className="img-fluid" alt="" data-aos="zoom-out" data-aos-delay="100" />
+                            <img src="https://res.cloudinary.com/dxxeudu3r/image/upload/v1668925170/Hello-MN_w6zbra.svg" className="img-fluid" alt="" data-aos="zoom-out" data-aos-delay="100" />
                         </Col>
                     </Row>
                 </Container>
