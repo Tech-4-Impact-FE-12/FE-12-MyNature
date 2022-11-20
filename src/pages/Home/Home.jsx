@@ -1,6 +1,5 @@
 import React from 'react'
 import { Container, Row, Col } from 'react-bootstrap'
-import './hero-img.svg';
 import './Home.css'
 import { Link } from "react-router-dom";
 
