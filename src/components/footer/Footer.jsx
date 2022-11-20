@@ -6,7 +6,6 @@ import './Footer.css'
 const Footer = () => {
     return (
         <>
-        {/* footer */
             <footer id="footer" className="footer">
                 <Container className='container'>
                     <Row className='row-gy-4'>
