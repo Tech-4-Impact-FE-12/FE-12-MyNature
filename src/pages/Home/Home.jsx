@@ -60,7 +60,7 @@ const Home = () => {
                     <Row className="row gy-4 align-items-center">
 
                         <Col className="lg-6">
-                            <img src="https://res.cloudinary.com/dzgtndwwd/image/upload/v1668869290/stats-img_yrdcsc.svg" alt="" className="img-fluid" />
+                            <img src="https://res.cloudinary.com/dxxeudu3r/image/upload/v1668925170/Community_group_euupjq.svg " alt="" className="img-fluid" />
                         </Col>
 
                         <Col className="lg-6">
